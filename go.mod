@@ -1,3 +1,3 @@
-module github.com/shiki-tak/evmc/v6
+module github.com/shiki-tak/evmc
 
 go 1.14
